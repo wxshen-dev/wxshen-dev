@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/wxshen-dev">
-    <img src="https://img.shields.io/badge/GitHub-no--acct--journal-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-wxshen--dev-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge" alt="AI Engineering" />
   <img src="https://img.shields.io/badge/Backend-FastAPI%20%2B%20Spring-16a34a?style=for-the-badge" alt="Backend" />
