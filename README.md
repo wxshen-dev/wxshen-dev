@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/no-acct-journal">
+  <a href="https://github.com/wxshen-dev">
     <img src="https://img.shields.io/badge/GitHub-no--acct--journal-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Focus-AI%20Engineering-2563eb?style=for-the-badge" alt="AI Engineering" />
@@ -60,7 +60,7 @@ Current operating mode:
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/no-acct-journal/Universal-Rag-Platform">Universal-Rag-Platform</a></h3>
+      <h3><a href="https://github.com/wxshen-dev/Universal-Rag-Platform">Universal-Rag-Platform</a></h3>
       <p>
         General-purpose RAG backend with document ingestion, parser registry, chunking,
         sparse/hybrid retrieval, QA, source sync, permissions, job tracking, and evaluation modules.
@@ -73,7 +73,7 @@ Current operating mode:
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/no-acct-journal/CodeFerry">CodeFerry</a></h3>
+      <h3><a href="https://github.com/wxshen-dev/CodeFerry">CodeFerry</a></h3>
       <p>
         Terminal AI coding assistant with streaming UI, multi-provider LLM support,
         built-in tools, permissions, sessions, memory, skills, sub-agents, hooks, and MCP tools.
@@ -88,7 +88,7 @@ Current operating mode:
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/no-acct-journal/news-set">news-set</a></h3>
+      <h3><a href="https://github.com/wxshen-dev/news-set">news-set</a></h3>
       <p>
         Full-stack news reading app with category feeds, article details, authentication,
         favorites, browsing history, Redis caching, and an AI chat proxy.
@@ -101,7 +101,7 @@ Current operating mode:
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/no-acct-journal/cloudstep-academy">cloudstep-academy</a></h3>
+      <h3><a href="https://github.com/wxshen-dev/cloudstep-academy">cloudstep-academy</a></h3>
       <p>
         Maven multi-module online learning platform organized around auth, gateway,
         users, courses, learning, exams, media, search, messages, payments, orders, and reviews.
@@ -120,13 +120,13 @@ Current operating mode:
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [Universal-Rag-Platform](https://github.com/no-acct-journal/Universal-Rag-Platform) | RAG backend with ingestion, parsing, chunking, retrieval, QA, permissions, job tracking, and evaluation. | Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, Milvus/Zilliz |
-| [CodeFerry](https://github.com/no-acct-journal/CodeFerry) | Terminal AI coding assistant with streaming UI, tools, permission checks, sessions, memory, skills, sub-agents, hooks, and MCP. | Python, Textual, Anthropic API, OpenAI API, MCP |
-| [news-set](https://github.com/no-acct-journal/news-set) | Full-stack news reading app with auth, favorites, history, caching, and AI chat proxy. | Vue 3, Vite, FastAPI, PostgreSQL, Redis, Docker Compose |
-| [cloudstep-academy](https://github.com/no-acct-journal/cloudstep-academy) | Multi-module online learning microservice platform with domain-oriented services. | Java 11, Spring Boot, Spring Cloud, MyBatis-Plus, MySQL, Redis, Elasticsearch, Docker |
-| [Microservices_E_commerce_Platform](https://github.com/no-acct-journal/Microservices_E_commerce_Platform) | Monolith-to-microservices e-commerce architecture with gateway, shared modules, clients, JWT filtering, and Feign calls. | Java, Spring Boot, Spring Cloud, MyBatis, Docker |
-| [Microservices_Demo](https://github.com/no-acct-journal/Microservices_Demo) | Compact microservices learning project covering discovery, gateway routing, OpenFeign, users, and orders. | Java, Spring Cloud, Eureka, Gateway, OpenFeign |
-| [CRUD_Practice](https://github.com/no-acct-journal/CRUD_Practice) | Java CRUD backend practice with admin/user APIs, JWT auth, Redis, object storage utilities, and report DTO/VO design. | Java, Spring Boot, MyBatis, Redis, JWT |
+| [Universal-Rag-Platform](https://github.com/wxshen-dev/Universal-Rag-Platform) | RAG backend with ingestion, parsing, chunking, retrieval, QA, permissions, job tracking, and evaluation. | Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, Milvus/Zilliz |
+| [CodeFerry](https://github.com/wxshen-dev/CodeFerry) | Terminal AI coding assistant with streaming UI, tools, permission checks, sessions, memory, skills, sub-agents, hooks, and MCP. | Python, Textual, Anthropic API, OpenAI API, MCP |
+| [news-set](https://github.com/wxshen-dev/news-set) | Full-stack news reading app with auth, favorites, history, caching, and AI chat proxy. | Vue 3, Vite, FastAPI, PostgreSQL, Redis, Docker Compose |
+| [cloudstep-academy](https://github.com/wxshen-dev/cloudstep-academy) | Multi-module online learning microservice platform with domain-oriented services. | Java 11, Spring Boot, Spring Cloud, MyBatis-Plus, MySQL, Redis, Elasticsearch, Docker |
+| [Microservices_E_commerce_Platform](https://github.com/wxshen-dev/Microservices_E_commerce_Platform) | Monolith-to-microservices e-commerce architecture with gateway, shared modules, clients, JWT filtering, and Feign calls. | Java, Spring Boot, Spring Cloud, MyBatis, Docker |
+| [Microservices_Demo](https://github.com/wxshen-dev/Microservices_Demo) | Compact microservices learning project covering discovery, gateway routing, OpenFeign, users, and orders. | Java, Spring Cloud, Eureka, Gateway, OpenFeign |
+| [CRUD_Practice](https://github.com/wxshen-dev/CRUD_Practice) | Java CRUD backend practice with admin/user APIs, JWT auth, Redis, object storage utilities, and report DTO/VO design. | Java, Spring Boot, MyBatis, Redis, JWT |
 
 ## Technical Toolbox
 
@@ -147,7 +147,7 @@ Current operating mode:
 
 ```mermaid
 flowchart LR
-    hub(("no-acct-journal"))
+    hub(("wxshen-dev"))
 
     hub --> ai["AI Engineering"]
     hub --> apps["Full-stack Apps"]
@@ -165,13 +165,13 @@ flowchart LR
 
     core --> crud["CRUD_Practice"]
 
-    click rag "https://github.com/no-acct-journal/Universal-Rag-Platform"
-    click ferry "https://github.com/no-acct-journal/CodeFerry"
-    click news "https://github.com/no-acct-journal/news-set"
-    click academy "https://github.com/no-acct-journal/cloudstep-academy"
-    click ecommerce "https://github.com/no-acct-journal/Microservices_E_commerce_Platform"
-    click demo "https://github.com/no-acct-journal/Microservices_Demo"
-    click crud "https://github.com/no-acct-journal/CRUD_Practice"
+    click rag "https://github.com/wxshen-dev/Universal-Rag-Platform"
+    click ferry "https://github.com/wxshen-dev/CodeFerry"
+    click news "https://github.com/wxshen-dev/news-set"
+    click academy "https://github.com/wxshen-dev/cloudstep-academy"
+    click ecommerce "https://github.com/wxshen-dev/Microservices_E_commerce_Platform"
+    click demo "https://github.com/wxshen-dev/Microservices_Demo"
+    click crud "https://github.com/wxshen-dev/CRUD_Practice"
 
     classDef hub fill:#0f172a,color:#f8fafc,stroke:#38bdf8,stroke-width:3px;
     classDef aiGroup fill:#172554,color:#dbeafe,stroke:#60a5fa,stroke-width:3px;
