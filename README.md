@@ -27,7 +27,7 @@ Current operating mode:
 ## GitHub Activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=no-acct-journal&theme=tokyonight&hide_border=true&card_width=900" alt="GitHub streak stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=wshen-dev&theme=tokyonight&hide_border=true&card_width=900" alt="GitHub streak stats" />
 </p>
 
 ## What I'm Building Around
