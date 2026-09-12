@@ -38,6 +38,12 @@ Current operating mode:
   Add retrieval, permissions, traceability, and evaluation where they matter.
 ```
 
+## GitHub Activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=wxshen-dev&theme=tokyonight&hide_border=true&card_width=900" alt="GitHub streak stats" />
+</p>
+
 ## Finance AI Direction
 
 <table>
@@ -53,19 +59,6 @@ Current operating mode:
     <td width="33%">
       <h3>Traceable AI Systems</h3>
       <p>Design outputs around sources, permissions, evaluation, and reviewability instead of black-box answers.</p>
-    </td>
-  </tr>
-</table>
-
-## GitHub Signal
-
-<table>
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=wxshen-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&icon_color=7c3aed&rank_icon=github" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxshen-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=38bdf8&text_color=94a3b8&langs_count=8" alt="Top languages" />
     </td>
   </tr>
 </table>
