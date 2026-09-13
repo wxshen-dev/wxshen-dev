@@ -30,14 +30,6 @@ My edge is the combination of audit judgment and engineering execution. I unders
 financial documents, controls, evidence, process risk, and how real business teams
 work with messy information. Then I turn that domain knowledge into software.
 
-```txt
-Current operating mode:
-
-  Understand the business process and risk.
-  Build the smallest system that proves the workflow.
-  Add retrieval, permissions, traceability, and evaluation where they matter.
-```
-
 ## GitHub Activity
 
 <p align="center">
